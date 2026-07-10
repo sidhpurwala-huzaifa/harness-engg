@@ -1,0 +1,25 @@
+[book]
+title = "Harness Engineering: Building the Machinery Around the Model"
+description = "How to turn a raw language model into a dependable agent — loops, tools, context, sandboxes, verification, and orchestration."
+authors = ["Huzaifa Sidhpurwala"]
+language = "en"
+src = "src"
+
+[build]
+create-missing = false
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "ayu"
+git-repository-icon = "fa-github"
+# After creating the GitHub repo, set these two and uncomment:
+# git-repository-url = "https://github.com/<user>/harness-engineering-book"
+# edit-url-template = "https://github.com/<user>/harness-engineering-book/edit/main/{path}"
+
+[output.html.fold]
+enable = true
+level = 1
+
+[output.html.search]
+enable = true
+limit-results = 20
