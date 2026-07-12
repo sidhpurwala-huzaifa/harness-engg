@@ -13,8 +13,8 @@ default-theme = "light"
 preferred-dark-theme = "ayu"
 git-repository-icon = "fa-github"
 # After creating the GitHub repo, set these two and uncomment:
-# git-repository-url = "https://github.com/<user>/harness-engineering-book"
-# edit-url-template = "https://github.com/<user>/harness-engineering-book/edit/main/{path}"
+git-repository-url = "https://github.com/sidhpurwala-huzaifa//harness-engineering-book"
+edit-url-template = "https://github.com/sidhpurwala-huzaifa//harness-engineering-book/edit/main/README.md"
 
 [output.html.fold]
 enable = true
