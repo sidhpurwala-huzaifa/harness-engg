@@ -85,3 +85,10 @@ examples use publicly documented SDK shapes and are cited to vendor docs. Source
 are linked inline at the point of claim and collected per chapter under *Further
 reading*. Product details and pricing are snapshots as of mid-2026 and dated in
 the text; the principles are meant to outlast them.
+
+## License
+
+Text and figures © 2026 Huzaifa Sidhpurwala, licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see [LICENSE](LICENSE)).
+Code samples are licensed under the [MIT License](LICENSE-CODE) — use them in
+your own projects freely, attribution appreciated but not required.
