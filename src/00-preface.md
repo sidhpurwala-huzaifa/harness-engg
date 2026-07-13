@@ -83,4 +83,10 @@ an hour will recognize them anyway.
 
 ---
 
+*Text and figures © 2026 Huzaifa Sidhpurwala, licensed under [CC BY
+4.0](https://creativecommons.org/licenses/by/4.0/); code samples under the
+[MIT License](license.md). See the [License](license.md) page for details.*
+
+---
+
 [What Is Harness Engineering? →](ch01-what-is-harness-engineering.md)

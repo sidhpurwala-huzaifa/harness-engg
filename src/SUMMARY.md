@@ -34,3 +34,4 @@
 ---
 
 [Glossary](glossary.md)
+[License](license.md)
